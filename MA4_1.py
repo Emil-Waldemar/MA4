@@ -1,3 +1,12 @@
+'''
+Student: Emil Waldemar Petersson
+email: emil-waldemar.petersson.3310@student.uu.se
+Reviewed by: Stephan Spengler
+Date: 13.okt 2023
+'''
+
+
+
 import math
 import matplotlib.pyplot as plt
 import random as rd
