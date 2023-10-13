@@ -1,5 +1,14 @@
 #!/usr/bin/env python3
 
+'''
+Reviewed by :Stephan Spengler
+Student: Emil Waldemar Petersson
+date: 13.okt 2023
+email: emil-waldemar.petersson.3310@student.uu.se
+'''
+
+
+
 from person import Person
 from numba import njit
 from time import perf_counter as pc

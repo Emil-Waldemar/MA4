@@ -1,3 +1,12 @@
+
+'''
+Reviewed by :Stephan Spengler
+Student: Emil Waldemar Petersson
+date: 13.okt 2023
+email: emil-waldemar.petersson.3310@student.uu.se
+'''
+
+
 import math
 import matplotlib.pyplot as plt
 import random as rd
@@ -26,7 +35,7 @@ def approx_pi(n):
     for i in range(len(points_in_circle)):
         number_of_points_in_circle += 1
             
-    my_pi = 4 * number_of_points_in_circle / n
+    my_pi = 4 * len(points_in_circle)/ n
     
     print(f"For n = {n}")
     print(f"Simulated pi: {my_pi}, pi: {round(math.pi, 5)}")
