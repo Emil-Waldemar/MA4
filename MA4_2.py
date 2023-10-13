@@ -8,33 +8,8 @@ Date: 13.okt 2023
 '''
 
 
-'''
-Student: Emil Waldemar Petersson
-email: emil-waldemar.petersson.3310@student.uu.se
-Reviewed by: Stephan Spengler
-Date: 13.okt 2023
-'''
 
 
-'''
-<<<<<<< HEAD
-Reviewed by :Stephan Spengler
-Student: Emil Waldemar Petersson
-date: 13.okt 2023
-email: emil-waldemar.petersson.3310@student.uu.se
-'''
-
-
-
-=======
-Student: Emil Waldemar Petersson
-email: emil-waldemar.petersson.3310@student.uu.se
-Reviewed by: Stephan Spengler
-Date: 13.okt 2023
-'''
-
-
->>>>>>> da0744f13d75ab957d88b121dbe3d58c72950f3e
 from person import Person
 from numba import njit
 from time import perf_counter as pc
@@ -121,7 +96,7 @@ def main():
 
 	# Save the figure
 	#plt.savefig('fibonacci_timing_comparison_numba_py.png')
-	
+	'''
  
 if __name__ == '__main__':
 	main()
