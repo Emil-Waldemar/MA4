@@ -1,6 +1,22 @@
 #!/usr/bin/env python3
 
 '''
+Student: Emil Waldemar Petersson
+email: emil-waldemar.petersson.3310@student.uu.se
+Reviewed by: Stephan Spengler
+Date: 13.okt 2023
+'''
+
+
+'''
+Student: Emil Waldemar Petersson
+email: emil-waldemar.petersson.3310@student.uu.se
+Reviewed by: Stephan Spengler
+Date: 13.okt 2023
+'''
+
+
+'''
 <<<<<<< HEAD
 Reviewed by :Stephan Spengler
 Student: Emil Waldemar Petersson
@@ -105,7 +121,7 @@ def main():
 
 	# Save the figure
 	#plt.savefig('fibonacci_timing_comparison_numba_py.png')
-	'''
+	
  
 if __name__ == '__main__':
 	main()
